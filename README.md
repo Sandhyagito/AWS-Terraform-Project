@@ -1,2 +1,2 @@
 # AWS-Terraform-Project
-creating infrastructure on AWS using Terraform
+Creating infrastructure on AWS using Terraform
